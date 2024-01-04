@@ -37,4 +37,6 @@ Implementing multi-threading for faster data extraction.
 Adding error handling for various edge cases.
 ## Conclusion
 The IMDb Data Extraction Project provides a foundation for gathering and analyzing movie-related data from IMDb. It can be extended and enhanced to cater to specific research or analytical requirements.
+## Schema of the database
+![Schema (1)](https://github.com/shikha223/IMDbMovieDataExtractor/assets/98075893/8a4322e7-d7a3-4507-a671-d159bca10d0b)
 
